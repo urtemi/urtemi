@@ -1,5 +1,5 @@
-## Hello, my name is Urte, friends call me Temi. 😄 Welcome to my Web Development Journey! 👋
-- 🔭 I’m currently working on _Hyperiod Dev Skills Bootcamp in ***Cloud Web Development***_
+## Hello, my name is Urte, friends call me Temi. 😄 Welcome to my Web Development journey! 👋
+- 🔭 I’m currently working on completing _Hyperiod Dev Skills Bootcamp in ***Cloud Web Development***_
 - 🌱 I’m currently learning how to use some exciting languages, frameworks and software
 <details>
   <summary> Please see the list below:</summary>
@@ -16,7 +16,7 @@
 
 </details>
 
-- 👯 I’m looking to collaborate on brainstorming ideas and creating Websites and Apps 
+- 👯 I’m looking to collaborate on brainstorming ideas and creating Websites and Apps with like-minded individuals
 - 🤔 I’m looking for help with finding <ins>**Freelance**</ins> projects to work on
 - 💬 Ask me about my education and previous experience
 - 📫 How to reach me: _urtemitkaite@gmail.com_
