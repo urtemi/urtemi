@@ -2,9 +2,9 @@
 ### Hello, my name is Urte, friends call me Temi. 😄 
 _A little bit about me_ :
 - 🔭 I’m currently working on completing _Hyperiod Dev Skills Bootcamp in ***Cloud Web Development***_
-- 🌱 I’m learning how to use some exciting languages, frameworks and software
+- 🌱 I’m learning how to use some exciting languages, frameworks and software:
 <details>
-  <summary> Please see the list below:</summary>
+  <summary> See the list below</summary>
 
 | # | Languages |
 |-----:|-----------|
